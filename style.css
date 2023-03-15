@@ -1,0 +1,13 @@
+.square-container {
+  width: 300px; /* Set the width of the container */
+  height: 300px; /* Set the height of the container */
+  overflow: hidden; /* Hide the parts of the image that don't fit in the container */
+}
+
+#cover-photo {
+  width: 100%; /* Make the image fill the width of the container */
+  height: 100%; /* Make the image fill the height of the container */
+  object-fit: cover; /* Crop the image to fill the container while preserving its aspect ratio */
+  object-position: 30% 50%; /* Shift the image 30% to the right and keep the vertical center */
+  border-radius: 50%; /* Make the image circular */
+}
