@@ -46,3 +46,18 @@ li {
   margin-bottom: 6px;
   padding-left: 25px;
 }
+
+th {
+  text-align: left;
+}
+
+#linkedin-img {
+  width: 17px;
+  height: 17px;
+  margin-left: 2px;
+}
+
+.no-underline {
+  text-decoration: none;
+  margin-left: 4px;
+}
