@@ -8,6 +8,27 @@
   width: 100%; /* Make the image fill the width of the container */
   height: 100%; /* Make the image fill the height of the container */
   object-fit: cover; /* Crop the image to fill the container while preserving its aspect ratio */
-  object-position: 30% 50%; /* Shift the image 30% to the right and keep the vertical center */
+  object-position: 24% 50%; /* Shift the image 30% to the right and keep the vertical center */
   border-radius: 50%; /* Make the image circular */
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.5em; /* or any desired size value */
+}
+
+p.education-header {
+  margin-top: 1rem;
+
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.education-secondary-header {
+  font-style: italic;
+}
+
+.education {
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
 }
