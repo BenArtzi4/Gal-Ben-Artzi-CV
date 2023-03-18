@@ -32,3 +32,17 @@ p.education-header {
   margin-top: 0.1rem;
   margin-bottom: 0.1rem;
 }
+
+.linkedin-img {
+  width: 100px;
+  height: 100px;
+}
+
+ul {
+  margin: 1rem;
+}
+li {
+  line-height: 1.2;
+  margin-bottom: 6px;
+  padding-left: 25px;
+}
